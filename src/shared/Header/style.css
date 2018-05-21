@@ -1,0 +1,14 @@
+.header-container > .__appbar-container{
+    padding:0 16px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-container > .__appbar-container > .__searchbar-container{
+    
+}
+.__searchbar-container > .searchbar-field{
+    color:white;
+}
